@@ -1,0 +1,2938 @@
+{
+    "1": [
+        "swords-dance",
+        "cut",
+        "bind",
+        "vine-whip"
+    ],
+    "2": [
+        "cut",
+        "bind",
+        "vine-whip",
+        "headbutt"
+    ],
+    "3": [
+        "cut",
+        "bind",
+        "vine-whip",
+        "headbutt"
+    ],
+    "4": [
+        "fire-punch",
+        "thunder-punch",
+        "scratch",
+        "swords-dance"
+    ],
+    "5": [
+        "fire-punch",
+        "thunder-punch",
+        "scratch",
+        "swords-dance"
+    ],
+    "6": [
+        "fire-punch",
+        "thunder-punch",
+        "scratch",
+        "swords-dance"
+    ],
+    "7": [
+        "ice-punch",
+        "mega-kick",
+        "headbutt",
+        "tackle"
+    ],
+    "8": [
+        "ice-punch",
+        "mega-kick",
+        "headbutt",
+        "tackle"
+    ],
+    "9": [
+        "ice-punch",
+        "mega-kick",
+        "headbutt",
+        "tackle"
+    ],
+    "10": [
+        "string-shot",
+        "snore",
+        "bug-bite",
+        "electroweb"
+    ],
+    "11": [
+        "harden",
+        "iron-defense",
+        "bug-bite",
+        "electroweb"
+    ],
+    "12": [
+        "gust",
+        "whirlwind",
+        "headbutt",
+        "tackle"
+    ],
+    "13": [
+        "string-shot",
+        "bug-bite",
+        "electroweb"
+    ],
+    "14": [
+        "harden",
+        "iron-defense",
+        "bug-bite",
+        "electroweb"
+    ],
+    "15": [
+        "cut",
+        "headbutt",
+        "fury-attack",
+        "take-down"
+    ],
+    "16": [
+        "gust",
+        "wing-attack",
+        "whirlwind",
+        "fly"
+    ],
+    "17": [
+        "gust",
+        "wing-attack",
+        "whirlwind",
+        "fly"
+    ],
+    "18": [
+        "gust",
+        "wing-attack",
+        "whirlwind",
+        "fly"
+    ],
+    "19": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down"
+    ],
+    "20": [
+        "cut",
+        "headbutt",
+        "tackle",
+        "body-slam"
+    ],
+    "21": [
+        "whirlwind",
+        "fly",
+        "headbutt",
+        "fury-attack"
+    ],
+    "22": [
+        "whirlwind",
+        "fly",
+        "headbutt",
+        "fury-attack"
+    ],
+    "23": [
+        "slam",
+        "headbutt",
+        "body-slam",
+        "wrap"
+    ],
+    "24": [
+        "slam",
+        "headbutt",
+        "body-slam",
+        "wrap"
+    ],
+    "25": [
+        "pay-day",
+        "thunder-punch",
+        "slam",
+        "double-kick"
+    ],
+    "26": [
+        "pay-day",
+        "thunder-punch",
+        "slam",
+        "mega-kick"
+    ],
+    "27": [
+        "swords-dance",
+        "cut",
+        "sand-attack",
+        "headbutt"
+    ],
+    "28": [
+        "swords-dance",
+        "cut",
+        "sand-attack",
+        "headbutt"
+    ],
+    "29": [
+        "cut",
+        "double-kick",
+        "headbutt",
+        "tackle"
+    ],
+    "30": [
+        "cut",
+        "double-kick",
+        "headbutt",
+        "horn-drill"
+    ],
+    "31": [
+        "pay-day",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "32": [
+        "double-kick",
+        "headbutt",
+        "horn-attack",
+        "fury-attack"
+    ],
+    "33": [
+        "double-kick",
+        "headbutt",
+        "horn-attack",
+        "fury-attack"
+    ],
+    "34": [
+        "pay-day",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "35": [
+        "double-slap",
+        "mega-punch",
+        "fire-punch",
+        "ice-punch"
+    ],
+    "36": [
+        "double-slap",
+        "mega-punch",
+        "fire-punch",
+        "ice-punch"
+    ],
+    "37": [
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "38": [
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "39": [
+        "double-slap",
+        "mega-punch",
+        "fire-punch",
+        "ice-punch"
+    ],
+    "40": [
+        "double-slap",
+        "mega-punch",
+        "fire-punch",
+        "ice-punch"
+    ],
+    "41": [
+        "gust",
+        "wing-attack",
+        "whirlwind",
+        "fly"
+    ],
+    "42": [
+        "wing-attack",
+        "whirlwind",
+        "fly",
+        "headbutt"
+    ],
+    "43": [
+        "cut",
+        "headbutt",
+        "take-down",
+        "double-edge"
+    ],
+    "44": [
+        "cut",
+        "headbutt",
+        "take-down",
+        "double-edge"
+    ],
+    "45": [
+        "cut",
+        "headbutt",
+        "body-slam",
+        "take-down"
+    ],
+    "46": [
+        "swords-dance",
+        "cut",
+        "headbutt",
+        "body-slam"
+    ],
+    "47": [
+        "swords-dance",
+        "cut",
+        "headbutt",
+        "body-slam"
+    ],
+    "48": [
+        "tackle",
+        "take-down",
+        "double-edge",
+        "supersonic"
+    ],
+    "49": [
+        "gust",
+        "whirlwind",
+        "headbutt",
+        "tackle"
+    ],
+    "50": [
+        "swords-dance",
+        "cut",
+        "sand-attack",
+        "headbutt"
+    ],
+    "51": [
+        "swords-dance",
+        "cut",
+        "sand-attack",
+        "headbutt"
+    ],
+    "52": [
+        "scratch",
+        "cut",
+        "headbutt",
+        "body-slam"
+    ],
+    "53": [
+        "scratch",
+        "cut",
+        "headbutt",
+        "body-slam"
+    ],
+    "54": [
+        "pay-day",
+        "ice-punch",
+        "scratch",
+        "mega-kick"
+    ],
+    "55": [
+        "pay-day",
+        "ice-punch",
+        "scratch",
+        "mega-kick"
+    ],
+    "56": [
+        "mega-punch",
+        "pay-day",
+        "fire-punch",
+        "ice-punch"
+    ],
+    "57": [
+        "mega-punch",
+        "pay-day",
+        "fire-punch",
+        "ice-punch"
+    ],
+    "58": [
+        "headbutt",
+        "body-slam",
+        "take-down",
+        "thrash"
+    ],
+    "59": [
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "leer"
+    ],
+    "60": [
+        "double-slap",
+        "headbutt",
+        "body-slam",
+        "take-down"
+    ],
+    "61": [
+        "double-slap",
+        "mega-punch",
+        "ice-punch",
+        "mega-kick"
+    ],
+    "62": [
+        "double-slap",
+        "mega-punch",
+        "ice-punch",
+        "mega-kick"
+    ],
+    "63": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "64": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "65": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "66": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "67": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "68": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "69": [
+        "cut",
+        "bind",
+        "slam",
+        "vine-whip"
+    ],
+    "70": [
+        "cut",
+        "bind",
+        "slam",
+        "vine-whip"
+    ],
+    "71": [
+        "cut",
+        "bind",
+        "vine-whip",
+        "headbutt"
+    ],
+    "72": [
+        "cut",
+        "bind",
+        "headbutt",
+        "wrap"
+    ],
+    "73": [
+        "cut",
+        "bind",
+        "headbutt",
+        "wrap"
+    ],
+    "74": [
+        "fire-punch",
+        "thunder-punch",
+        "sand-attack",
+        "headbutt"
+    ],
+    "75": [
+        "fire-punch",
+        "thunder-punch",
+        "sand-attack",
+        "headbutt"
+    ],
+    "76": [
+        "fire-punch",
+        "thunder-punch",
+        "mega-kick",
+        "sand-attack"
+    ],
+    "77": [
+        "double-kick",
+        "headbutt",
+        "horn-drill",
+        "tackle"
+    ],
+    "78": [
+        "swords-dance",
+        "stomp",
+        "double-kick",
+        "headbutt"
+    ],
+    "79": [
+        "stomp",
+        "headbutt",
+        "tackle",
+        "body-slam"
+    ],
+    "80": [
+        "pay-day",
+        "ice-punch",
+        "stomp",
+        "mega-kick"
+    ],
+    "81": [
+        "tackle",
+        "take-down",
+        "double-edge",
+        "supersonic"
+    ],
+    "82": [
+        "tackle",
+        "take-down",
+        "double-edge",
+        "supersonic"
+    ],
+    "83": [
+        "swords-dance",
+        "cut",
+        "gust",
+        "whirlwind"
+    ],
+    "84": [
+        "whirlwind",
+        "fly",
+        "jump-kick",
+        "headbutt"
+    ],
+    "85": [
+        "whirlwind",
+        "fly",
+        "jump-kick",
+        "headbutt"
+    ],
+    "86": [
+        "slam",
+        "headbutt",
+        "horn-drill",
+        "body-slam"
+    ],
+    "87": [
+        "headbutt",
+        "horn-drill",
+        "body-slam",
+        "take-down"
+    ],
+    "88": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "headbutt"
+    ],
+    "89": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "headbutt"
+    ],
+    "90": [
+        "tackle",
+        "take-down",
+        "double-edge",
+        "twineedle"
+    ],
+    "91": [
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "92": [
+        "ice-punch",
+        "thunder-punch",
+        "headbutt",
+        "disable"
+    ],
+    "93": [
+        "ice-punch",
+        "thunder-punch",
+        "headbutt",
+        "mega-drain"
+    ],
+    "94": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "95": [
+        "slam",
+        "headbutt",
+        "tackle",
+        "body-slam"
+    ],
+    "96": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "97": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "98": [
+        "guillotine",
+        "swords-dance",
+        "cut",
+        "slam"
+    ],
+    "99": [
+        "guillotine",
+        "swords-dance",
+        "cut",
+        "slam"
+    ],
+    "100": [
+        "tackle",
+        "take-down",
+        "sonic-boom",
+        "thunder-shock"
+    ],
+    "101": [
+        "tackle",
+        "take-down",
+        "sonic-boom",
+        "hyper-beam"
+    ],
+    "102": [
+        "headbutt",
+        "take-down",
+        "double-edge",
+        "psybeam"
+    ],
+    "103": [
+        "stomp",
+        "headbutt",
+        "take-down",
+        "double-edge"
+    ],
+    "104": [
+        "fire-punch",
+        "thunder-punch",
+        "swords-dance",
+        "double-kick"
+    ],
+    "105": [
+        "fire-punch",
+        "thunder-punch",
+        "swords-dance",
+        "mega-kick"
+    ],
+    "106": [
+        "double-kick",
+        "mega-kick",
+        "jump-kick",
+        "rolling-kick"
+    ],
+    "107": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "108": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "swords-dance"
+    ],
+    "109": [
+        "tackle",
+        "flamethrower",
+        "psybeam",
+        "thunderbolt"
+    ],
+    "110": [
+        "tackle",
+        "flamethrower",
+        "psybeam",
+        "hyper-beam"
+    ],
+    "111": [
+        "stomp",
+        "sand-attack",
+        "headbutt",
+        "horn-attack"
+    ],
+    "112": [
+        "pay-day",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "113": [
+        "double-slap",
+        "mega-punch",
+        "fire-punch",
+        "ice-punch"
+    ],
+    "114": [
+        "cut",
+        "bind",
+        "slam",
+        "vine-whip"
+    ],
+    "115": [
+        "comet-punch",
+        "mega-punch",
+        "fire-punch",
+        "ice-punch"
+    ],
+    "116": [
+        "headbutt",
+        "take-down",
+        "double-edge",
+        "leer"
+    ],
+    "117": [
+        "take-down",
+        "double-edge",
+        "leer",
+        "disable"
+    ],
+    "118": [
+        "headbutt",
+        "horn-attack",
+        "fury-attack",
+        "horn-drill"
+    ],
+    "119": [
+        "headbutt",
+        "horn-attack",
+        "fury-attack",
+        "horn-drill"
+    ],
+    "120": [
+        "tackle",
+        "take-down",
+        "double-edge",
+        "supersonic"
+    ],
+    "121": [
+        "tackle",
+        "take-down",
+        "double-edge",
+        "water-gun"
+    ],
+    "122": [
+        "double-slap",
+        "mega-punch",
+        "fire-punch",
+        "ice-punch"
+    ],
+    "123": [
+        "swords-dance",
+        "cut",
+        "wing-attack",
+        "headbutt"
+    ],
+    "124": [
+        "double-slap",
+        "mega-punch",
+        "ice-punch",
+        "mega-kick"
+    ],
+    "125": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "126": [
+        "fire-punch",
+        "thunder-punch",
+        "mega-kick",
+        "headbutt"
+    ],
+    "127": [
+        "guillotine",
+        "swords-dance",
+        "cut",
+        "bind"
+    ],
+    "128": [
+        "headbutt",
+        "horn-attack",
+        "horn-drill",
+        "tackle"
+    ],
+    "129": [
+        "hydro-pump",
+        "splash",
+        "flail",
+        "bounce"
+    ],
+    "130": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down"
+    ],
+    "131": [
+        "horn-drill",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "132": [],
+    "133": [
+        "double-kick",
+        "sand-attack",
+        "headbutt",
+        "tackle"
+    ],
+    "134": [
+        "double-kick",
+        "sand-attack",
+        "headbutt",
+        "tackle"
+    ],
+    "135": [
+        "double-kick",
+        "sand-attack",
+        "headbutt",
+        "tackle"
+    ],
+    "136": [
+        "double-kick",
+        "sand-attack",
+        "headbutt",
+        "tackle"
+    ],
+    "137": [
+        "tackle",
+        "take-down",
+        "double-edge",
+        "ice-beam"
+    ],
+    "138": [
+        "slam",
+        "sand-attack",
+        "headbutt",
+        "horn-attack"
+    ],
+    "139": [
+        "sand-attack",
+        "headbutt",
+        "horn-attack",
+        "horn-drill"
+    ],
+    "140": [
+        "sand-attack",
+        "headbutt",
+        "body-slam",
+        "take-down"
+    ],
+    "141": [
+        "razor-wind",
+        "swords-dance",
+        "cut",
+        "mega-kick"
+    ],
+    "142": [
+        "wing-attack",
+        "whirlwind",
+        "fly",
+        "headbutt"
+    ],
+    "143": [
+        "pay-day",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "144": [
+        "gust",
+        "whirlwind",
+        "fly",
+        "headbutt"
+    ],
+    "145": [
+        "whirlwind",
+        "fly",
+        "headbutt",
+        "take-down"
+    ],
+    "146": [
+        "gust",
+        "wing-attack",
+        "whirlwind",
+        "fly"
+    ],
+    "147": [
+        "slam",
+        "headbutt",
+        "body-slam",
+        "wrap"
+    ],
+    "148": [
+        "slam",
+        "headbutt",
+        "horn-drill",
+        "body-slam"
+    ],
+    "149": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "razor-wind"
+    ],
+    "150": [
+        "pay-day",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "151": [
+        "mega-punch",
+        "pay-day",
+        "fire-punch",
+        "ice-punch"
+    ],
+    "152": [
+        "cut",
+        "vine-whip",
+        "headbutt",
+        "tackle"
+    ],
+    "153": [
+        "cut",
+        "headbutt",
+        "tackle",
+        "body-slam"
+    ],
+    "154": [
+        "cut",
+        "headbutt",
+        "tackle",
+        "body-slam"
+    ],
+    "155": [
+        "double-kick",
+        "headbutt",
+        "tackle",
+        "body-slam"
+    ],
+    "156": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down"
+    ],
+    "157": [
+        "fire-punch",
+        "thunder-punch",
+        "cut",
+        "mega-kick"
+    ],
+    "158": [
+        "ice-punch",
+        "scratch",
+        "razor-wind",
+        "swords-dance"
+    ],
+    "159": [
+        "ice-punch",
+        "scratch",
+        "swords-dance",
+        "cut"
+    ],
+    "160": [
+        "ice-punch",
+        "scratch",
+        "swords-dance",
+        "cut"
+    ],
+    "161": [
+        "ice-punch",
+        "thunder-punch",
+        "scratch",
+        "cut"
+    ],
+    "162": [
+        "ice-punch",
+        "thunder-punch",
+        "scratch",
+        "cut"
+    ],
+    "163": [
+        "whirlwind",
+        "fly",
+        "tackle",
+        "take-down"
+    ],
+    "164": [
+        "tackle",
+        "take-down",
+        "double-edge",
+        "growl"
+    ],
+    "165": [
+        "mega-punch",
+        "ice-punch",
+        "thunder-punch",
+        "swords-dance"
+    ],
+    "166": [
+        "mega-punch",
+        "ice-punch",
+        "thunder-punch",
+        "swords-dance"
+    ],
+    "167": [
+        "double-edge",
+        "poison-sting",
+        "twineedle",
+        "pin-missile"
+    ],
+    "168": [
+        "body-slam",
+        "double-edge",
+        "poison-sting",
+        "pin-missile"
+    ],
+    "169": [
+        "fly",
+        "double-edge",
+        "bite",
+        "supersonic"
+    ],
+    "170": [
+        "double-edge",
+        "supersonic",
+        "mist",
+        "water-gun"
+    ],
+    "171": [
+        "double-edge",
+        "supersonic",
+        "water-gun",
+        "hydro-pump"
+    ],
+    "172": [
+        "mega-punch",
+        "thunder-punch",
+        "mega-kick",
+        "headbutt"
+    ],
+    "173": [
+        "mega-punch",
+        "mega-kick",
+        "headbutt",
+        "body-slam"
+    ],
+    "174": [
+        "mega-punch",
+        "mega-kick",
+        "headbutt",
+        "body-slam"
+    ],
+    "175": [
+        "mega-punch",
+        "mega-kick",
+        "headbutt",
+        "body-slam"
+    ],
+    "176": [
+        "mega-punch",
+        "fly",
+        "mega-kick",
+        "headbutt"
+    ],
+    "177": [
+        "leer",
+        "peck",
+        "drill-peck",
+        "solar-beam"
+    ],
+    "178": [
+        "double-edge",
+        "leer",
+        "hyper-beam",
+        "peck"
+    ],
+    "179": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down"
+    ],
+    "180": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "181": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "182": [
+        "cut",
+        "double-edge",
+        "acid",
+        "hyper-beam"
+    ],
+    "183": [
+        "ice-punch",
+        "slam",
+        "mega-kick",
+        "headbutt"
+    ],
+    "184": [
+        "ice-punch",
+        "slam",
+        "mega-kick",
+        "headbutt"
+    ],
+    "185": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "slam"
+    ],
+    "186": [
+        "double-slap",
+        "mega-punch",
+        "ice-punch",
+        "mega-kick"
+    ],
+    "187": [
+        "swords-dance",
+        "headbutt",
+        "tackle",
+        "take-down"
+    ],
+    "188": [
+        "headbutt",
+        "tackle",
+        "take-down",
+        "double-edge"
+    ],
+    "189": [
+        "headbutt",
+        "tackle",
+        "take-down",
+        "double-edge"
+    ],
+    "190": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "191": [
+        "cut",
+        "tackle",
+        "take-down",
+        "double-edge"
+    ],
+    "192": [
+        "swords-dance",
+        "cut",
+        "tackle",
+        "take-down"
+    ],
+    "193": [
+        "whirlwind",
+        "headbutt",
+        "tackle",
+        "double-edge"
+    ],
+    "194": [
+        "slam",
+        "double-kick",
+        "headbutt",
+        "body-slam"
+    ],
+    "195": [
+        "ice-punch",
+        "slam",
+        "mega-kick",
+        "headbutt"
+    ],
+    "196": [
+        "cut",
+        "sand-attack",
+        "headbutt",
+        "tackle"
+    ],
+    "197": [
+        "cut",
+        "sand-attack",
+        "headbutt",
+        "tackle"
+    ],
+    "198": [
+        "wing-attack",
+        "whirlwind",
+        "fly",
+        "take-down"
+    ],
+    "199": [
+        "pay-day",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "200": [
+        "double-edge",
+        "growl",
+        "psybeam",
+        "hyper-beam"
+    ],
+    "201": [],
+    "202": [
+        "amnesia",
+        "splash",
+        "destiny-bond",
+        "charm"
+    ],
+    "203": [
+        "stomp",
+        "double-kick",
+        "headbutt",
+        "tackle"
+    ],
+    "204": [
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "205": [
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "206": [
+        "headbutt",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "207": [
+        "razor-wind",
+        "swords-dance",
+        "cut",
+        "wing-attack"
+    ],
+    "208": [
+        "bind",
+        "slam",
+        "headbutt",
+        "tackle"
+    ],
+    "209": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "210": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "211": [
+        "headbutt",
+        "tackle",
+        "take-down",
+        "double-edge"
+    ],
+    "212": [
+        "swords-dance",
+        "cut",
+        "wing-attack",
+        "headbutt"
+    ],
+    "213": [
+        "headbutt",
+        "body-slam",
+        "wrap",
+        "double-edge"
+    ],
+    "214": [
+        "cut",
+        "headbutt",
+        "horn-attack",
+        "fury-attack"
+    ],
+    "215": [
+        "ice-punch",
+        "scratch",
+        "swords-dance",
+        "cut"
+    ],
+    "216": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "scratch"
+    ],
+    "217": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "scratch"
+    ],
+    "218": [
+        "double-edge",
+        "ember",
+        "flamethrower",
+        "rock-throw"
+    ],
+    "219": [
+        "double-edge",
+        "ember",
+        "flamethrower",
+        "hyper-beam"
+    ],
+    "220": [
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "221": [
+        "horn-attack",
+        "fury-attack",
+        "tackle",
+        "body-slam"
+    ],
+    "222": [
+        "tackle",
+        "body-slam",
+        "double-edge",
+        "mist"
+    ],
+    "223": [
+        "supersonic",
+        "flamethrower",
+        "water-gun",
+        "hydro-pump"
+    ],
+    "224": [
+        "wrap",
+        "double-edge",
+        "flamethrower",
+        "water-gun"
+    ],
+    "225": [
+        "ice-punch",
+        "fly",
+        "mega-kick",
+        "headbutt"
+    ],
+    "226": [
+        "slam",
+        "headbutt",
+        "tackle",
+        "body-slam"
+    ],
+    "227": [
+        "cut",
+        "wing-attack",
+        "whirlwind",
+        "fly"
+    ],
+    "228": [
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "leer"
+    ],
+    "229": [
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "leer"
+    ],
+    "230": [
+        "body-slam",
+        "double-edge",
+        "leer",
+        "water-gun"
+    ],
+    "231": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down"
+    ],
+    "232": [
+        "headbutt",
+        "horn-attack",
+        "fury-attack",
+        "body-slam"
+    ],
+    "233": [
+        "double-edge",
+        "ice-beam",
+        "blizzard",
+        "psybeam"
+    ],
+    "234": [
+        "double-kick",
+        "jump-kick",
+        "sand-attack",
+        "headbutt"
+    ],
+    "235": [],
+    "236": [
+        "mega-kick",
+        "headbutt",
+        "tackle",
+        "body-slam"
+    ],
+    "237": [
+        "mega-kick",
+        "rolling-kick",
+        "headbutt",
+        "tackle"
+    ],
+    "238": [
+        "mega-punch",
+        "ice-punch",
+        "mega-kick",
+        "body-slam"
+    ],
+    "239": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "240": [
+        "mega-punch",
+        "fire-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "241": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "stomp"
+    ],
+    "242": [
+        "double-slap",
+        "mega-punch",
+        "fire-punch",
+        "ice-punch"
+    ],
+    "243": [
+        "headbutt",
+        "body-slam",
+        "double-edge",
+        "leer"
+    ],
+    "244": [
+        "stomp",
+        "headbutt",
+        "body-slam",
+        "double-edge"
+    ],
+    "245": [
+        "gust",
+        "headbutt",
+        "body-slam",
+        "double-edge"
+    ],
+    "246": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down"
+    ],
+    "247": [
+        "tackle",
+        "body-slam",
+        "take-down",
+        "thrash"
+    ],
+    "248": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "cut"
+    ],
+    "249": [
+        "whirlwind",
+        "fly",
+        "headbutt",
+        "body-slam"
+    ],
+    "250": [
+        "whirlwind",
+        "fly",
+        "double-edge",
+        "roar"
+    ],
+    "251": [
+        "cut",
+        "double-edge",
+        "hyper-beam",
+        "leech-seed"
+    ],
+    "252": [
+        "mega-punch",
+        "thunder-punch",
+        "razor-wind",
+        "swords-dance"
+    ],
+    "253": [
+        "mega-punch",
+        "thunder-punch",
+        "swords-dance",
+        "cut"
+    ],
+    "254": [
+        "mega-punch",
+        "thunder-punch",
+        "swords-dance",
+        "cut"
+    ],
+    "255": [
+        "scratch",
+        "swords-dance",
+        "cut",
+        "mega-kick"
+    ],
+    "256": [
+        "fire-punch",
+        "thunder-punch",
+        "scratch",
+        "swords-dance"
+    ],
+    "257": [
+        "fire-punch",
+        "thunder-punch",
+        "scratch",
+        "swords-dance"
+    ],
+    "258": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down"
+    ],
+    "259": [
+        "ice-punch",
+        "mega-kick",
+        "headbutt",
+        "tackle"
+    ],
+    "260": [
+        "ice-punch",
+        "mega-kick",
+        "headbutt",
+        "tackle"
+    ],
+    "261": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down"
+    ],
+    "262": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down"
+    ],
+    "263": [
+        "sand-attack",
+        "headbutt",
+        "tackle",
+        "body-slam"
+    ],
+    "264": [
+        "sand-attack",
+        "headbutt",
+        "tackle",
+        "body-slam"
+    ],
+    "265": [
+        "poison-sting",
+        "string-shot",
+        "snore",
+        "bug-bite"
+    ],
+    "266": [
+        "harden",
+        "iron-defense",
+        "bug-bite",
+        "electroweb"
+    ],
+    "267": [
+        "whirlwind",
+        "double-edge",
+        "hyper-beam",
+        "absorb"
+    ],
+    "268": [
+        "harden",
+        "iron-defense",
+        "bug-bite",
+        "electroweb"
+    ],
+    "269": [
+        "whirlwind",
+        "double-edge",
+        "psybeam",
+        "hyper-beam"
+    ],
+    "270": [
+        "headbutt",
+        "body-slam",
+        "double-edge",
+        "growl"
+    ],
+    "271": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "swords-dance"
+    ],
+    "272": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "swords-dance"
+    ],
+    "273": [
+        "swords-dance",
+        "headbutt",
+        "tackle",
+        "body-slam"
+    ],
+    "274": [
+        "razor-wind",
+        "swords-dance",
+        "cut",
+        "mega-kick"
+    ],
+    "275": [
+        "swords-dance",
+        "cut",
+        "whirlwind",
+        "mega-kick"
+    ],
+    "276": [
+        "whirlwind",
+        "fly",
+        "double-edge",
+        "growl"
+    ],
+    "277": [
+        "fly",
+        "double-edge",
+        "growl",
+        "hyper-beam"
+    ],
+    "278": [
+        "wing-attack",
+        "fly",
+        "take-down",
+        "double-edge"
+    ],
+    "279": [
+        "fly",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "280": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "281": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "282": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "283": [
+        "double-edge",
+        "mist",
+        "water-gun",
+        "hydro-pump"
+    ],
+    "284": [
+        "whirlwind",
+        "take-down",
+        "double-edge",
+        "water-gun"
+    ],
+    "285": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down"
+    ],
+    "286": [
+        "thunder-punch",
+        "swords-dance",
+        "cut",
+        "mega-kick"
+    ],
+    "287": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "scratch"
+    ],
+    "288": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "scratch"
+    ],
+    "289": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "scratch"
+    ],
+    "290": [
+        "cut",
+        "gust",
+        "sand-attack",
+        "double-edge"
+    ],
+    "291": [
+        "swords-dance",
+        "cut",
+        "sand-attack",
+        "double-edge"
+    ],
+    "292": [
+        "cut",
+        "sand-attack",
+        "double-edge",
+        "hyper-beam"
+    ],
+    "293": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "294": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "295": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "296": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "whirlwind"
+    ],
+    "297": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "whirlwind"
+    ],
+    "298": [
+        "headbutt",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "299": [
+        "ice-punch",
+        "thunder-punch",
+        "headbutt",
+        "tackle"
+    ],
+    "300": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "double-edge"
+    ],
+    "301": [
+        "headbutt",
+        "body-slam",
+        "double-edge",
+        "growl"
+    ],
+    "302": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "scratch"
+    ],
+    "303": [
+        "ice-punch",
+        "thunder-punch",
+        "vice-grip",
+        "swords-dance"
+    ],
+    "304": [
+        "stomp",
+        "headbutt",
+        "tackle",
+        "body-slam"
+    ],
+    "305": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down"
+    ],
+    "306": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "cut"
+    ],
+    "307": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "308": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "309": [
+        "tackle",
+        "body-slam",
+        "double-edge",
+        "leer"
+    ],
+    "310": [
+        "tackle",
+        "body-slam",
+        "double-edge",
+        "leer"
+    ],
+    "311": [
+        "thunder-punch",
+        "mega-kick",
+        "headbutt",
+        "body-slam"
+    ],
+    "312": [
+        "thunder-punch",
+        "mega-kick",
+        "headbutt",
+        "body-slam"
+    ],
+    "313": [
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick",
+        "tackle"
+    ],
+    "314": [
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick",
+        "tackle"
+    ],
+    "315": [
+        "cut",
+        "body-slam",
+        "double-edge",
+        "poison-sting"
+    ],
+    "316": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "swords-dance"
+    ],
+    "317": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "swords-dance"
+    ],
+    "318": [
+        "thrash",
+        "double-edge",
+        "leer",
+        "bite"
+    ],
+    "319": [
+        "double-edge",
+        "leer",
+        "bite",
+        "roar"
+    ],
+    "320": [
+        "body-slam",
+        "thrash",
+        "double-edge",
+        "growl"
+    ],
+    "321": [
+        "body-slam",
+        "double-edge",
+        "growl",
+        "roar"
+    ],
+    "322": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down"
+    ],
+    "323": [
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "324": [
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "ember"
+    ],
+    "325": [
+        "headbutt",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "326": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "327": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "328": [
+        "sand-attack",
+        "headbutt",
+        "body-slam",
+        "double-edge"
+    ],
+    "329": [
+        "sand-attack",
+        "headbutt",
+        "body-slam",
+        "double-edge"
+    ],
+    "330": [
+        "fire-punch",
+        "thunder-punch",
+        "fly",
+        "mega-kick"
+    ],
+    "331": [
+        "thunder-punch",
+        "swords-dance",
+        "cut",
+        "sand-attack"
+    ],
+    "332": [
+        "thunder-punch",
+        "swords-dance",
+        "cut",
+        "mega-kick"
+    ],
+    "333": [
+        "fury-attack",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "334": [
+        "fury-attack",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "335": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "scratch"
+    ],
+    "336": [
+        "bind",
+        "headbutt",
+        "body-slam",
+        "wrap"
+    ],
+    "337": [
+        "body-slam",
+        "double-edge",
+        "ice-beam",
+        "blizzard"
+    ],
+    "338": [
+        "tackle",
+        "body-slam",
+        "double-edge",
+        "flamethrower"
+    ],
+    "339": [
+        "take-down",
+        "thrash",
+        "double-edge",
+        "water-gun"
+    ],
+    "340": [
+        "body-slam",
+        "take-down",
+        "thrash",
+        "double-edge"
+    ],
+    "341": [
+        "guillotine",
+        "swords-dance",
+        "cut",
+        "body-slam"
+    ],
+    "342": [
+        "guillotine",
+        "swords-dance",
+        "cut",
+        "body-slam"
+    ],
+    "343": [
+        "double-edge",
+        "ice-beam",
+        "psybeam",
+        "solar-beam"
+    ],
+    "344": [
+        "double-edge",
+        "ice-beam",
+        "psybeam",
+        "hyper-beam"
+    ],
+    "345": [
+        "bind",
+        "body-slam",
+        "wrap",
+        "double-edge"
+    ],
+    "346": [
+        "bind",
+        "headbutt",
+        "body-slam",
+        "wrap"
+    ],
+    "347": [
+        "swords-dance",
+        "cut",
+        "sand-attack",
+        "headbutt"
+    ],
+    "348": [
+        "swords-dance",
+        "cut",
+        "headbutt",
+        "body-slam"
+    ],
+    "349": [
+        "double-edge",
+        "mist",
+        "surf",
+        "ice-beam"
+    ],
+    "350": [
+        "tackle",
+        "body-slam",
+        "wrap",
+        "double-edge"
+    ],
+    "351": [
+        "tackle",
+        "body-slam",
+        "double-edge",
+        "disable"
+    ],
+    "352": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "scratch"
+    ],
+    "353": [
+        "body-slam",
+        "double-edge",
+        "disable",
+        "psybeam"
+    ],
+    "354": [
+        "headbutt",
+        "body-slam",
+        "double-edge",
+        "psybeam"
+    ],
+    "355": [
+        "body-slam",
+        "double-edge",
+        "leer",
+        "disable"
+    ],
+    "356": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "bind"
+    ],
+    "357": [
+        "swords-dance",
+        "cut",
+        "gust",
+        "whirlwind"
+    ],
+    "358": [
+        "wrap",
+        "take-down",
+        "double-edge",
+        "growl"
+    ],
+    "359": [
+        "razor-wind",
+        "swords-dance",
+        "cut",
+        "headbutt"
+    ],
+    "360": [
+        "amnesia",
+        "splash",
+        "destiny-bond",
+        "charm"
+    ],
+    "361": [
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "leer"
+    ],
+    "362": [
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "leer"
+    ],
+    "363": [
+        "body-slam",
+        "double-edge",
+        "growl",
+        "water-gun"
+    ],
+    "364": [
+        "body-slam",
+        "double-edge",
+        "growl",
+        "roar"
+    ],
+    "365": [
+        "headbutt",
+        "body-slam",
+        "double-edge",
+        "growl"
+    ],
+    "366": [
+        "double-edge",
+        "supersonic",
+        "water-gun",
+        "surf"
+    ],
+    "367": [
+        "body-slam",
+        "double-edge",
+        "bite",
+        "hydro-pump"
+    ],
+    "368": [
+        "body-slam",
+        "double-edge",
+        "hydro-pump",
+        "surf"
+    ],
+    "369": [
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "370": [
+        "take-down",
+        "double-edge",
+        "supersonic",
+        "water-gun"
+    ],
+    "371": [
+        "headbutt",
+        "body-slam",
+        "take-down",
+        "thrash"
+    ],
+    "372": [
+        "headbutt",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "373": [
+        "fly",
+        "headbutt",
+        "body-slam",
+        "take-down"
+    ],
+    "374": [
+        "tackle",
+        "take-down",
+        "iron-defense",
+        "zen-headbutt"
+    ],
+    "375": [
+        "thunder-punch",
+        "cut",
+        "headbutt",
+        "tackle"
+    ],
+    "376": [
+        "thunder-punch",
+        "cut",
+        "headbutt",
+        "tackle"
+    ],
+    "377": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "stomp"
+    ],
+    "378": [
+        "ice-punch",
+        "thunder-punch",
+        "stomp",
+        "mega-kick"
+    ],
+    "379": [
+        "ice-punch",
+        "thunder-punch",
+        "stomp",
+        "mega-kick"
+    ],
+    "380": [
+        "fly",
+        "body-slam",
+        "double-edge",
+        "roar"
+    ],
+    "381": [
+        "fly",
+        "body-slam",
+        "double-edge",
+        "roar"
+    ],
+    "382": [
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "roar"
+    ],
+    "383": [
+        "fire-punch",
+        "thunder-punch",
+        "swords-dance",
+        "cut"
+    ],
+    "384": [
+        "fly",
+        "bind",
+        "headbutt",
+        "body-slam"
+    ],
+    "385": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "386": [
+        "ice-punch",
+        "thunder-punch",
+        "cut",
+        "bind"
+    ],
+    "387": [
+        "cut",
+        "headbutt",
+        "tackle",
+        "body-slam"
+    ],
+    "388": [
+        "cut",
+        "headbutt",
+        "tackle",
+        "bite"
+    ],
+    "389": [
+        "cut",
+        "headbutt",
+        "tackle",
+        "bite"
+    ],
+    "390": [
+        "thunder-punch",
+        "scratch",
+        "swords-dance",
+        "cut"
+    ],
+    "391": [
+        "thunder-punch",
+        "scratch",
+        "swords-dance",
+        "cut"
+    ],
+    "392": [
+        "thunder-punch",
+        "scratch",
+        "swords-dance",
+        "cut"
+    ],
+    "393": [
+        "cut",
+        "headbutt",
+        "fury-attack",
+        "growl"
+    ],
+    "394": [
+        "headbutt",
+        "fury-attack",
+        "tackle",
+        "growl"
+    ],
+    "395": [
+        "cut",
+        "headbutt",
+        "fury-attack",
+        "tackle"
+    ],
+    "396": [
+        "whirlwind",
+        "fly",
+        "sand-attack",
+        "fury-attack"
+    ],
+    "397": [
+        "whirlwind",
+        "fly",
+        "tackle",
+        "take-down"
+    ],
+    "398": [
+        "whirlwind",
+        "fly",
+        "tackle",
+        "take-down"
+    ],
+    "399": [
+        "cut",
+        "headbutt",
+        "tackle",
+        "take-down"
+    ],
+    "400": [
+        "cut",
+        "headbutt",
+        "tackle",
+        "take-down"
+    ],
+    "401": [
+        "growl",
+        "string-shot",
+        "bide",
+        "snore"
+    ],
+    "402": [
+        "cut",
+        "tackle",
+        "take-down",
+        "growl"
+    ],
+    "403": [
+        "headbutt",
+        "tackle",
+        "take-down",
+        "leer"
+    ],
+    "404": [
+        "tackle",
+        "take-down",
+        "leer",
+        "bite"
+    ],
+    "405": [
+        "tackle",
+        "body-slam",
+        "take-down",
+        "leer"
+    ],
+    "406": [
+        "cut",
+        "pin-missile",
+        "absorb",
+        "mega-drain"
+    ],
+    "407": [
+        "cut",
+        "body-slam",
+        "poison-sting",
+        "pin-missile"
+    ],
+    "408": [
+        "thunder-punch",
+        "swords-dance",
+        "whirlwind",
+        "slam"
+    ],
+    "409": [
+        "thunder-punch",
+        "swords-dance",
+        "cut",
+        "headbutt"
+    ],
+    "410": [
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "411": [
+        "tackle",
+        "take-down",
+        "roar",
+        "flamethrower"
+    ],
+    "412": [
+        "string-shot",
+        "snore",
+        "protect",
+        "hidden-power"
+    ],
+    "413": [
+        "psybeam",
+        "hyper-beam",
+        "growth",
+        "razor-leaf"
+    ],
+    "414": [
+        "tackle",
+        "psybeam",
+        "hyper-beam",
+        "solar-beam"
+    ],
+    "415": [
+        "string-shot",
+        "swift",
+        "snore",
+        "mud-slap"
+    ],
+    "416": [
+        "gust",
+        "take-down",
+        "poison-sting",
+        "pin-missile"
+    ],
+    "417": [
+        "cut",
+        "headbutt",
+        "take-down",
+        "tail-whip"
+    ],
+    "418": [
+        "ice-punch",
+        "razor-wind",
+        "headbutt",
+        "tackle"
+    ],
+    "419": [
+        "razor-wind",
+        "headbutt",
+        "body-slam",
+        "take-down"
+    ],
+    "420": [
+        "tackle",
+        "take-down",
+        "leech-seed",
+        "growth"
+    ],
+    "421": [
+        "tackle",
+        "take-down",
+        "hyper-beam",
+        "leech-seed"
+    ],
+    "422": [
+        "body-slam",
+        "take-down",
+        "mist",
+        "water-gun"
+    ],
+    "423": [
+        "body-slam",
+        "take-down",
+        "water-gun",
+        "hydro-pump"
+    ],
+    "424": [
+        "ice-punch",
+        "thunder-punch",
+        "scratch",
+        "cut"
+    ],
+    "425": [
+        "gust",
+        "fly",
+        "bind",
+        "body-slam"
+    ],
+    "426": [
+        "gust",
+        "fly",
+        "bind",
+        "body-slam"
+    ],
+    "427": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "428": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "429": [
+        "growl",
+        "psybeam",
+        "hyper-beam",
+        "thunderbolt"
+    ],
+    "430": [
+        "fly",
+        "take-down",
+        "hyper-beam",
+        "thunder-wave"
+    ],
+    "431": [
+        "cut",
+        "sand-attack",
+        "headbutt",
+        "tail-whip"
+    ],
+    "432": [
+        "cut",
+        "headbutt",
+        "body-slam",
+        "growl"
+    ],
+    "433": [
+        "wrap",
+        "growl",
+        "disable",
+        "thunder-wave"
+    ],
+    "434": [
+        "cut",
+        "headbutt",
+        "body-slam",
+        "take-down"
+    ],
+    "435": [
+        "cut",
+        "headbutt",
+        "body-slam",
+        "take-down"
+    ],
+    "436": [
+        "body-slam",
+        "take-down",
+        "solar-beam",
+        "earthquake"
+    ],
+    "437": [
+        "body-slam",
+        "take-down",
+        "psybeam",
+        "hyper-beam"
+    ],
+    "438": [
+        "headbutt",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "439": [
+        "double-slap",
+        "headbutt",
+        "psybeam",
+        "solar-beam"
+    ],
+    "440": [
+        "headbutt",
+        "take-down",
+        "flamethrower",
+        "counter"
+    ],
+    "441": [
+        "fury-attack",
+        "growl",
+        "sing",
+        "supersonic"
+    ],
+    "442": [
+        "disable",
+        "psybeam",
+        "hyper-beam",
+        "toxic"
+    ],
+    "443": [
+        "cut",
+        "sand-attack",
+        "headbutt",
+        "tackle"
+    ],
+    "444": [
+        "cut",
+        "sand-attack",
+        "headbutt",
+        "tackle"
+    ],
+    "445": [
+        "cut",
+        "sand-attack",
+        "headbutt",
+        "tackle"
+    ],
+    "446": [
+        "pay-day",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "447": [
+        "ice-punch",
+        "thunder-punch",
+        "swords-dance",
+        "mega-kick"
+    ],
+    "448": [
+        "ice-punch",
+        "thunder-punch",
+        "swords-dance",
+        "mega-kick"
+    ],
+    "449": [
+        "sand-attack",
+        "headbutt",
+        "tackle",
+        "body-slam"
+    ],
+    "450": [
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down"
+    ],
+    "451": [
+        "cut",
+        "whirlwind",
+        "sand-attack",
+        "headbutt"
+    ],
+    "452": [
+        "cut",
+        "headbutt",
+        "poison-sting",
+        "pin-missile"
+    ],
+    "453": [
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick",
+        "headbutt"
+    ],
+    "454": [
+        "ice-punch",
+        "thunder-punch",
+        "swords-dance",
+        "cut"
+    ],
+    "455": [
+        "cut",
+        "bind",
+        "slam",
+        "vine-whip"
+    ],
+    "456": [
+        "gust",
+        "take-down",
+        "water-gun",
+        "hydro-pump"
+    ],
+    "457": [
+        "gust",
+        "take-down",
+        "water-gun",
+        "hydro-pump"
+    ],
+    "458": [
+        "slam",
+        "headbutt",
+        "tackle",
+        "take-down"
+    ],
+    "459": [
+        "ice-punch",
+        "swords-dance",
+        "stomp",
+        "headbutt"
+    ],
+    "460": [
+        "ice-punch",
+        "swords-dance",
+        "mega-kick",
+        "headbutt"
+    ],
+    "461": [
+        "ice-punch",
+        "scratch",
+        "swords-dance",
+        "cut"
+    ],
+    "462": [
+        "body-slam",
+        "take-down",
+        "supersonic",
+        "sonic-boom"
+    ],
+    "463": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "swords-dance"
+    ],
+    "464": [
+        "pay-day",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "465": [
+        "cut",
+        "bind",
+        "slam",
+        "vine-whip"
+    ],
+    "466": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "mega-kick"
+    ],
+    "467": [
+        "fire-punch",
+        "thunder-punch",
+        "mega-kick",
+        "headbutt"
+    ],
+    "468": [
+        "mega-punch",
+        "fly",
+        "mega-kick",
+        "headbutt"
+    ],
+    "469": [
+        "tackle",
+        "supersonic",
+        "sonic-boom",
+        "hyper-beam"
+    ],
+    "470": [
+        "swords-dance",
+        "sand-attack",
+        "headbutt",
+        "tackle"
+    ],
+    "471": [
+        "sand-attack",
+        "headbutt",
+        "tackle",
+        "body-slam"
+    ],
+    "472": [
+        "swords-dance",
+        "cut",
+        "sand-attack",
+        "headbutt"
+    ],
+    "473": [
+        "fury-attack",
+        "tackle",
+        "body-slam",
+        "take-down"
+    ],
+    "474": [
+        "ice-beam",
+        "blizzard",
+        "psybeam",
+        "hyper-beam"
+    ],
+    "475": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "swords-dance"
+    ],
+    "476": [
+        "ice-punch",
+        "thunder-punch",
+        "headbutt",
+        "tackle"
+    ],
+    "477": [
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch",
+        "bind"
+    ],
+    "478": [
+        "headbutt",
+        "body-slam",
+        "take-down",
+        "leer"
+    ],
+    "479": [
+        "thunderbolt",
+        "thunder-wave",
+        "thunder",
+        "toxic"
+    ],
+    "480": [
+        "ice-punch",
+        "thunder-punch",
+        "headbutt",
+        "psybeam"
+    ],
+    "481": [
+        "ice-punch",
+        "thunder-punch",
+        "headbutt",
+        "ice-beam"
+    ],
+    "482": [
+        "ice-punch",
+        "thunder-punch",
+        "headbutt",
+        "flamethrower"
+    ],
+    "483": [
+        "headbutt",
+        "body-slam",
+        "take-down",
+        "roar"
+    ],
+    "484": [
+        "headbutt",
+        "body-slam",
+        "take-down",
+        "roar"
+    ],
+    "485": [
+        "body-slam",
+        "take-down",
+        "leer",
+        "roar"
+    ],
+    "486": [
+        "mega-punch",
+        "fire-punch",
+        "ice-punch",
+        "thunder-punch"
+    ],
+    "487": [
+        "fly",
+        "headbutt",
+        "body-slam",
+        "take-down"
+    ],
+    "488": [
+        "mist",
+        "ice-beam",
+        "psybeam",
+        "aurora-beam"
+    ],
+    "489": [
+        "surf",
+        "ice-beam",
+        "blizzard",
+        "bubble-beam"
+    ],
+    "490": [
+        "surf",
+        "ice-beam",
+        "blizzard",
+        "bubble-beam"
+    ],
+    "491": [
+        "cut",
+        "headbutt",
+        "disable",
+        "ice-beam"
+    ],
+    "492": [
+        "headbutt",
+        "hyper-beam",
+        "leech-seed",
+        "growth"
+    ]
+}
